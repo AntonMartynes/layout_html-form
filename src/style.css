@@ -1,1 +1,13 @@
 /* styles go here */
+.form {
+  display: block;
+  margin-top: 10px;
+}
+
+.block {
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 20px;
+}
