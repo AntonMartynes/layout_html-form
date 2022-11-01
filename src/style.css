@@ -6,13 +6,9 @@
 }
 
 .block {
-  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .form:last-child {
   margin-bottom: 0;
-}
-
-.button {
-  margin-top: 20px;
 }
